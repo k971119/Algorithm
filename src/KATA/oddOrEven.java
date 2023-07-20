@@ -1,7 +1,5 @@
 package KATA;
 
-import static java.util.Arrays.stream;
-
 public class oddOrEven {
 	public static void main(String args[]) {
 		
