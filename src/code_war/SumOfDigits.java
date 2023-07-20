@@ -1,4 +1,4 @@
-package KATA;
+package code_war;
 
 public class SumOfDigits {
 	public static void main(String args[]) {

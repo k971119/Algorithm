@@ -1,4 +1,4 @@
-package KATA;
+package code_war;
 
 import java.util.ArrayList;
 import java.util.Collections;
